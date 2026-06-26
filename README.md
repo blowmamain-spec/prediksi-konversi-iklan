@@ -25,7 +25,7 @@ Dataset yang digunakan adalah **Social Network Ads** — berisi data demografis 
 
 ---
 
-## 🤖 Algoritma yang Digunakan
+## Algoritma yang Digunakan
 
 | Model | Hyperparameter Tuning | Keterangan |
 |---|---|---|
